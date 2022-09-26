@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "cors": "^2.8.5",
     "firebase": "^8.7.1",
-    "firebase-tools": "^9.16.0",
+    "firebase-tools": "^9.23.3",
     "moment": "^2.29.4",
     "react": "^17.0.2",
     "react-currency-format": "^1.0.0",
